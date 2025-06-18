@@ -10,7 +10,7 @@
 
 ---
 
-## Ὅ8 Project Overview
+## Project Overview
 
 This system is a centralized customer notification hub designed to manage customer contact information, notification preferences, and delivery statuses across different communication channels (Email, SMS, Postal). It acts as the single source of truth for other microservices to fetch and update customer delivery data securely and efficiently.
 
