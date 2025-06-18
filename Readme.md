@@ -23,7 +23,8 @@ This system is a centralized customer notification hub designed to manage custom
 username:croco_user  
 password:croco123    
 
-To get jwt Token Log in with one of this admins
+To get jwt Token Log in with this 2 admins(Choose one of them)
+
 Admin 1 email:LAdmin@gmail.com password:admin11
   
  Admin 2 email:Luka.vanishvili.2@btu.edu.ge password:testPassword11
