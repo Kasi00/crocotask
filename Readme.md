@@ -19,9 +19,10 @@ This system is a centralized customer notification hub designed to manage custom
 ## ✯ Key Features
 
 ### 🧑‍💼 Admin User Management
-!!! My Database creditenials are -> url : jdbc:postgresql://localhost:5432/crocobet_db       username:croco_user     password:croco123          
+!!! My Database creditenials are -> url : jdbc:postgresql://localhost:5432/crocobet_db       username:croco_user      password:croco123          
 Admin 1 email:LAdmin@gmail.com password:admin11
-   Admin 2 email:Luka.vanishvili.2@btu.edu.ge password:testPassword11
+  
+ Admin 2 email:Luka.vanishvili.2@btu.edu.ge password:testPassword11
 - Register and manage admin users
 - Secure login with Spring Security
 - Update admin passwords
