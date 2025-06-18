@@ -1,0 +1,19 @@
+<section th:fragment="content">
+  <h2>Notification Statuses</h2>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th>Type</th>
+      <th>Status</th>
+      <th>SentAt</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="status : ${statuses}">
+      <td th:text="${status.channel}"></td>
+      <td th:text="${status.status}"></td>
+      <td th:text="${status.sentAt}"></td>
+    </tr>
+    </tbody>
+  </table>
+</section>
